@@ -14,3 +14,12 @@ As a senior analyst who is tasked with conducting a crucial animal study for pot
 
 6.) Calculate Correlation/Regression 
 
+
+References Used In Code:
+1.) https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.nunique.html
+2.) https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.xticks.html
+3.) https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html
+4.) https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.pearsonr.html 
+
+
+
